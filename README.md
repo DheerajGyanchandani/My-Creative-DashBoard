@@ -1,26 +1,14 @@
-My project presents an interactive E-commerce Sales Dashboard developed using Power BI to analyze online sales performance. The dashboard provides insights into sales, profit, quantity, customer behavior, product categories, and regional performance.
+#DATA
+The dataset consists of online E-commerce sales transactions including order details, product categories, customer information, payment modes, geographic locations, and time-based attributes. Key variables include sales amount, profit, quantity sold, average order value (AOV), state, category, sub-category, customer data, and order dates.
 
-🎯 Key Features
+#Logic
+The data was cleaned, structured, and modeled in Power BI to ensure accurate analysis. Relationships were created between tables, and calculated measures were developed to summarize key performance indicators. Interactive features such as filters, slicers, and drill-down capabilities were implemented to allow dynamic exploration of sales trends, regional performance, customer behavior, and product performance.
 
--Interactive dashboard with filters and slicers
--Analysis of sales, profit, quantity, and average order value (AOV)
--State-wise sales performance
--Category and sub-category analysis
--Monthly profit trends
--Payment mode analysis
--ey customers and products.
+#Tools
+Power BI Desktop was used for data modeling, transformation, and visualization. DAX (Data Analysis Expressions) was applied to create calculated fields and KPIs, while various charts and visual elements were used to present insights effectively in an interactive dashboard.
 
-🛠️ Tools & Technologies Used
--Power BI Desktop
--Data Modeling
--Data Visualization
-
-📌 Key Insights
--Identified top-performing states and regions
--Analyzed customer purchasing behavior
--Compared category-wise sales distribution
--Evaluated monthly profit trends
--Determined preferred payment methods
+#Result
+The final dashboard provides comprehensive insights into sales performance, including total sales, profit trends, category distribution, state-wise performance, payment preferences, and top customers and products. It transforms raw transactional data into actionable insights that support data-driven decision-making and business strategy.
 
 👤 Author
 Dheeraj Kumar
